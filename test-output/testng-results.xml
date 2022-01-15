@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-30T08:38:12Z" name="Default suite" finished-at="2021-10-30T08:38:55Z" duration-ms="43649">
+    <groups>
+    </groups>
+    <test started-at="2021-10-30T08:38:12Z" name="Default test" finished-at="2021-10-30T08:38:55Z" duration-ms="43649">
+      <class name="tests.GiftsPageAreaTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.GiftsPageAreaTest@225129c]" started-at="2021-10-30T11:38:01Z" name="setup" finished-at="2021-10-30T11:38:11Z" duration-ms="10954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupHtml()[pri:0, instance:tests.GiftsPageAreaTest@225129c]" started-at="2021-10-30T11:38:11Z" name="setupHtml" finished-at="2021-10-30T11:38:12Z" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupHtml -->
+        <test-method signature="setExtentReport()[pri:0, instance:tests.GiftsPageAreaTest@225129c]" started-at="2021-10-30T11:38:12Z" name="setExtentReport" finished-at="2021-10-30T11:38:12Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtentReport -->
+        <test-method signature="filterSuccessTest()[pri:0, instance:tests.GiftsPageAreaTest@225129c]" started-at="2021-10-30T11:38:12Z" name="filterSuccessTest" finished-at="2021-10-30T11:38:23Z" duration-ms="11814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterSuccessTest -->
+        <test-method signature="sortSuccessTest()[pri:0, instance:tests.GiftsPageAreaTest@225129c]" started-at="2021-10-30T11:38:23Z" name="sortSuccessTest" finished-at="2021-10-30T11:38:38Z" duration-ms="14767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortSuccessTest -->
+        <test-method signature="addItemToCartSuccessTest()[pri:0, instance:tests.GiftsPageAreaTest@225129c]" started-at="2021-10-30T11:38:38Z" name="addItemToCartSuccessTest" finished-at="2021-10-30T11:38:47Z" duration-ms="8563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCartSuccessTest -->
+        <test-method signature="itemPageSuccessTest()[pri:0, instance:tests.GiftsPageAreaTest@225129c]" started-at="2021-10-30T11:38:47Z" name="itemPageSuccessTest" finished-at="2021-10-30T11:38:50Z" duration-ms="3475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- itemPageSuccessTest -->
+        <test-method signature="minusAndPlusQuantitySuccessTest()[pri:0, instance:tests.GiftsPageAreaTest@225129c]" started-at="2021-10-30T11:38:50Z" name="minusAndPlusQuantitySuccessTest" finished-at="2021-10-30T11:38:50Z" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minusAndPlusQuantitySuccessTest -->
+        <test-method signature="buyNowItemSuccessTest()[pri:0, instance:tests.GiftsPageAreaTest@225129c]" started-at="2021-10-30T11:38:50Z" name="buyNowItemSuccessTest" finished-at="2021-10-30T11:38:55Z" duration-ms="4762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyNowItemSuccessTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.GiftsPageAreaTest@225129c]" started-at="2021-10-30T11:38:55Z" name="teardown" finished-at="2021-10-30T11:39:00Z" duration-ms="4378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="teardownHtml()[pri:0, instance:tests.GiftsPageAreaTest@225129c]" started-at="2021-10-30T11:39:00Z" name="teardownHtml" finished-at="2021-10-30T11:39:00Z" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownHtml -->
+      </class> <!-- tests.GiftsPageAreaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

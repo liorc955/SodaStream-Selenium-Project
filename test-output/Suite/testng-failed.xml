@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <test parallel="none" name="Test(failed)">
+    <classes>
+      <class name="tests.AccessoriesPageTest">
+        <methods>
+          <include name="itemPageSuccessTest"/>
+          <include name="buyNowItemSuccessTest"/>
+          <include name="minusAndPlusQuantitySuccessTest"/>
+          <include name="teardown"/>
+          <include name="addItemToCartSuccessTest"/>
+          <include name="setup"/>
+          <include name="sortSuccessTest"/>
+          <include name="setupHtml"/>
+        </methods>
+      </class> <!-- tests.AccessoriesPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
