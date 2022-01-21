@@ -12,7 +12,7 @@ This project implements POM and PageFactory Design.
 
 ## Tech
 
-For this project, I used the following maven package:
+For this project, I used the following maven packages:
 
 - [TestNG](https://mvnrepository.com/artifact/org.testng/testng) - Testing framework for Java
 - [Selenium Java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java) - Selenium automates browsers
