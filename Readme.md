@@ -23,7 +23,9 @@ First, you will need to install maven project:
 
 https://maven.apache.org/install.html
 
--You can run this project with maven command line:
+## Running Tests
+
+-You can run tests with maven command line:
 
 ```sh
 mvn test -DtestNg="Name of testng.xml"
